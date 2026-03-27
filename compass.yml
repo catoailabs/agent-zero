@@ -1,0 +1,16 @@
+name: agent-zero
+id: ari:cloud:compass:81e7ee9d-1fb0-4307-803e-054742333e2c:component/9cbdb48c-f9bc-40d6-908c-f03428e02f4c/b4150df4-d96e-48dc-ac5a-0f80daab7d6c
+description: Agent Zero AI framework
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/catoailabs/agent-zero
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
